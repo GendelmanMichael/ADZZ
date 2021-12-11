@@ -1,0 +1,9 @@
+.body{
+    position: absolute;
+    top: 8vh;
+    left: 0;
+    height: 92vh;
+    width: 100vw;
+    background-image: url("./backGround.png");
+    background-size: cover;
+}

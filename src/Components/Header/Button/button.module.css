@@ -1,0 +1,26 @@
+.button{
+    position: relative;
+    height: content-box;
+    margin: 10px;
+}
+
+.border{
+    position: absolute;
+    top: -15%;
+    left: -15%;
+    height: 130%;
+    width: 130%;
+    border: 1px solid white;
+    border-radius: 10%;
+}
+
+.txt{
+    position: relative;
+    height: 100%;
+    float: right;
+}
+
+.ico{
+    position: relative;
+    margin-right: 5px;
+}

@@ -1,0 +1,46 @@
+.darkArea{
+    position: absolute;
+    top: 49vh;
+    left: 0;
+    height: 43vh;
+    width: 100vw;
+    background:  rgba(4, 96, 169, 0.2);
+}
+
+.productCardHolder{
+    position: relative;
+    top: 1vh;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow-x: auto;
+}
+
+.alsoLike{
+    position: relative;
+    top: 1vh;
+}
+
+.button{
+    position: relative;
+    height: 6vh;
+    width: 30vh;
+    top: 1vh;
+
+    background: linear-gradient(270deg, #1F91FB -7.35%, #27E9F5 109.02%);
+
+    border-radius: 3vh;
+
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 2vh;
+    line-height: 138.8%;
+    /* identical to box height, or 21px */
+
+    color: #FFFFFF;
+
+    text-shadow: 0px 1px 4px rgba(0, 0, 0, 0.25);
+}
